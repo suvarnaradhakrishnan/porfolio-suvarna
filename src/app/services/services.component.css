@@ -1,23 +1,12 @@
 .services{
     height: 545px;
-    padding: 100px;
-    padding-top: 180px;
-    /* padding-left: 400px; */
+    /* /* padding: 100px; */
+    padding-top: 100px; 
+    padding-left: 250px;
     background-color:lightgreen;
 }
-/* .carousel{
+
+.car{
     height: 400px;
     width: 600px;
-    background-color:lightgreen;
-    padding-top: 50px;
-   }
-p{
-    text-align: center;
 }
-h4{
-    text-align: center;
-}
-.ab{
-    padding-left: 100px;
-    padding-right: 100px;
-} */
